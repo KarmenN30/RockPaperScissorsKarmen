@@ -1,2 +1,2 @@
 # RockPaperScissorsKarmen
-This si simple console game
+This is simple console game
